@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andmunoz
 - 👀 I’m interested in software development and games
-- 🌱 I’m currently learning python and react native
+- 🌱 I’m currently teaching python and react
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Contact me with private messages
 
